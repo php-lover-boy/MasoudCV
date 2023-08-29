@@ -18,4 +18,4 @@ One page CV with react
 # npm start
 
 # link to design: https://www.figma.com/community/file/899543856243565036/CV%2FResume
->>>>>>> db78ca567ea9e54798bee8fb734e9d856d1946b7
+
